@@ -1,0 +1,3 @@
+# Needed only when using RedisTaskStore. The in-memory demo and unit tests use
+# the Python standard library exclusively.
+redis>=5.0,<7.0
